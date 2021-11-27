@@ -230,7 +230,7 @@
     background-size: cover; 
 }
 
-.second-area span.text{
+.second-area .text{
     font-size: 40px;
     font-family: -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Helvetica Neue", HelveticaNeue, YuGothic, "Yu Gothic Medium", "Yu Gothic", Verdana, Meiryo, sans-serif;
 }
